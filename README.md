@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/22533625/217662509-8b55295c-1014-4664-880f-7a402815b9c4.png)
 
-#ColorTargeting
+#ColorSegmentation
 
 From
 ![image](https://user-images.githubusercontent.com/22533625/217662570-ebd1eee3-2aa5-4811-bad7-f960868aaad0.png)
