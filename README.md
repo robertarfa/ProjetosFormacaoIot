@@ -12,3 +12,6 @@ From
 To
 ![image](https://user-images.githubusercontent.com/22533625/217662615-aa0f200e-8bd9-4dc5-8de0-9bfbdd3fef36.png)
 
+#SobelSegmentation
+
+![image](https://user-images.githubusercontent.com/22533625/218084852-c0c5bb2e-3f88-4448-b13d-b69eca106b07.png)
